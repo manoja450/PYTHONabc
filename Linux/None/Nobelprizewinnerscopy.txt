@@ -1,0 +1,107 @@
+2023:Pierre Agostini, Ferenc Krausz,Anne L'Huillier
+2022:lain Aspect, John Clauser, Anton Zeilinger
+2021: Syukuro Manabe, Klaus Hasselmann, and Giorgio Parisi
+2020: Roger Penrose, Reinhard Genzel, and Andrea Ghez
+2019: James Peebles, Michel Mayor, and Didier Queloz
+2018: Arthur Ashkin, Gérard Mourou, and Donna Strickland
+2017: Rainer Weiss, Barry C. Barish, and Kip S. Thorne
+2016: David J. Thouless, F. Duncan M. Haldane, and J. Michael Kosterlitz
+2015: Takaaki Kajita and Arthur B. McDonald
+2014: Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura
+2013: François Englert and Peter W. Higgs
+2012: Serge Haroche and David J. Wineland
+2011: Saul Perlmutter, Brian P. Schmidt, and Adam G. Riess
+2010: Andre Geim and Konstantin Novoselov
+2009: Charles K. Kao, Willard S. Boyle, and George E. Smith
+2008: Yoichiro Nambu, Makoto Kobayashi, and Toshihide Maskawa
+2007: Albert Fert and Peter Grünberg
+2006: John C. Mather and George F. Smoot
+2005: Roy J. Glauber, John L. Hall, and Theodor W. Hänsch
+2004: David J. Gross, H. David Politzer, and Frank Wilczek
+2003: Alexei A. Abrikosov, Vitaly L. Ginzburg, and Anthony J. Leggett
+2002: Raymond Davis Jr. and Masatoshi Koshiba
+2001: Eric A. Cornell, Wolfgang Ketterle, and Carl E. Wieman
+2000: Zhores I. Alferov, Herbert Kroemer, and Jack S. Kilby
+1999: Gerardus 't Hooft and Martinus J.G. Veltman
+1998: Robert B. Laughlin, Horst L. Störmer, and Daniel C. Tsui
+1997: Steven Chu, Claude Cohen-Tannoudji, and William D. Phillips
+1996: David M. Lee, Douglas D. Osheroff, and Robert C. Richardson
+1995: Martin L. Perl and Frederick Reines
+1994: Bertram N. Brockhouse and Clifford G. Shull
+1993: Russell A. Hulse and Joseph H. Taylor Jr.
+1992: Georges Charpak
+1991: Pierre-Gilles de Gennes
+1990: Jerome I. Friedman, Henry W. Kendall, and Richard E. Taylor
+1989: Norman F. Ramsey, Hans G. Dehmelt, and Wolfgang Paul
+1988: Leon M. Lederman, Melvin Schwartz, and Jack Steinberger
+1987: J. Georg Bednorz and K. Alexander Müller
+1986: Ernst Ruska, Gerd Binnig, and Heinrich Rohrer
+1985: Klaus von Klitzing
+1984: Carlo Rubbia and Simon van der Meer
+1983: Subrahmanyan Chandrasekhar and William A. Fowler
+1982: Kenneth G. Wilson
+1981: Nicolaas Bloembergen, Arthur L. Schawlow, and Kai M. Siegbahn
+1980: James Watson Cronin and Val Logsdon Fitch
+1979: Sheldon Lee Glashow, Abdus Salam, and Steven Weinberg
+1978: Pyotr Kapitsa, Arno Penzias, and Robert Woodrow Wilson
+1977: Philip W. Anderson, Nevill F. Mott, and John H. Van Vleck
+1976: Burton Richter and Samuel C.C. Ting
+1975: Aage N. Bohr, Ben R. Mottelson, and James Rainwater
+1974: Antony Hewish and Martin Ryle
+1973: Leo Esaki, Ivar Giaever, and Brian D. Josephson
+1972: John Bardeen, Leon N. Cooper, and Robert Schrieffer
+1971: Dennis Gabor
+1970: Hannes Alfvén and Louis Néel
+1969: Murray Gell-Mann
+1968: Luis Alvarez
+1967: Hans Bethe
+1966: Alfred Kastler
+1965: Sin-Itiro Tomonaga, Julian Schwinger, and Richard P. Feynman
+1964: Charles H. Townes, Nicolay G. Basov, and Aleksandr M. Prokhorov
+1963: Eugene Wigner, Maria Goeppert Mayer, and J. Hans D. Jensen
+1962: Lev Landau
+1961: Robert Hofstadter and Rudolf Ludwig Mössbauer
+1960: Donald A. Glaser
+1959: Emilio Segrè and Owen Chamberlain
+1958: Pavel A. Cherenkov, Il´ja M. Frank, and Igor Y. Tamm
+1957: Chen Ning Yang and Tsung-Dao Lee
+1956: John Bardeen, Walter H. Brattain, and William B. Shockley
+1955: Willis E. Lamb and Polykarp Kusch
+1954: Max Born, Walther Bothe, and Max von Laue
+1953: Frits Zernike
+1952: Felix Bloch and Edward Mills Purcell
+1951: John Cockcroft and Ernest T.S. Walton
+1950: Cecil Powell
+1949: Hideki Yukawa
+1948: Patrick M.S. Blackett
+1947: Edward V. Appleton
+1946: Percy W. Bridgman
+1945: Wolfgang Pauli
+1944: Isidor Isaac Rabi
+1943: Otto Stern
+1942: No Nobel Prize was awarded this year
+1941: No Nobel Prize was awarded this year
+1940: No Nobel Prize was awarded this year
+1939: Ernest O. Lawrence
+1938: Enrico Fermi
+1937: Clinton J. Davisson and George P. Thomson
+1936: Victor F. Hess and Carl D. Anderson
+1935: James Chadwick
+1934: No Nobel Prize was awarded this year
+1933: Erwin Schrödinger and Paul A.M. Dirac
+1932: Werner Heisenberg
+1931: No Nobel Prize was awarded this year
+1930: Sir Chandrasekhara Venkata Raman
+1929: Prince Louis-Victor Pierre Raymond de Broglie
+1928: Owen Willans Richardson
+1927: Arthur H. Compton and Charles T.R. Wilson
+1926: Jean Baptiste Perrin
+1925: James Franck and Gustav Hertz
+1924: Manne Siegbahn
+1923: Robert A. Millikan
+1922: Niels Bohr
+1921: Albert Einstein
+1920: Charles Édouard Guillaume
+1919: Johannes Stark
+1918: Max Planck
+1917: Charles Glover

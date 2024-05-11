@@ -1,0 +1,187 @@
+Russia - 17,098,242 km²
+Canada - 9,984,670 km²
+China - 9,596,961 km²
+United States - 9,525,067 km²
+Brazil - 8,515,767 km²
+Australia - 7,692,024 km²
+India - 3,287,263 km²
+Argentina - 2,780,400 km²
+Kazakhstan - 2,724,900 km²
+Algeria - 2,381,741 km²
+Democratic Republic of the Congo - 2,344,858 km²
+Greenland (Denmark) - 2,166,086 km²
+Saudi Arabia - 2,149,690 km²
+Mexico - 1,964,375 km²
+Indonesia - 1,910,931 km²
+Sudan - 1,861,484 km²
+Libya - 1,759,540 km²
+Iran - 1,648,195 km²
+Mongolia - 1,564,110 km²
+Peru - 1,285,216 km²
+Chad - 1,284,000 km²
+Niger - 1,267,000 km²
+Angola - 1,246,700 km²
+Mali - 1,240,192 km²
+South Africa - 1,221,037 km²
+Colombia - 1,138,910 km²
+Ethiopia - 1,104,300 km²
+Bolivia - 1,098,581 km²
+Mauritania - 1,030,700 km²
+Egypt - 1,002,450 km²
+Tanzania - 947,303 km²
+Nigeria - 923,768 km²
+Venezuela - 916,445 km²
+Namibia - 825,615 km²
+Mozambique - 801,590 km²
+Pakistan - 881,913 km²
+Turkey - 759,592 km²
+Chile - 756,102 km²
+Zambia - 752,612 km²
+Myanmar (Burma) - 676,578 km²
+Afghanistan - 652,230 km²
+South Sudan - 644,329 km²
+Somalia - 637,657 km²
+Central African Republic - 622,984 km²
+Ukraine - 603,500 km²
+Botswana - 581,730 km²
+Madagascar - 587,041 km²
+Kenya - 580,367 km²
+France - 551,695 km²
+Yemen - 527,968 km²
+Thailand - 513,120 km²
+Spain - 505,992 km²
+Turkmenistan - 488,100 km²
+Cameroon - 475,442 km²
+Papua New Guinea - 462,840 km²
+Sweden - 450,295 km²
+Uzbekistan - 447,400 km²
+Morocco - 446,550 km²
+Iraq - 438,317 km²
+Paraguay - 406,752 km²
+Zimbabwe - 390,757 km²
+Japan - 377,975 km²
+Germany - 357,022 km²
+Republic of the Congo - 342,000 km²
+Finland - 338,145 km²
+Malaysia - 330,803 km²
+Vietnam - 331,212 km²
+Norway - 323,802 km²
+Cote d'Ivoire (Ivory Coast) - 322,463 km²
+Poland - 312,696 km²
+Oman - 309,500 km²
+Italy - 301,340 km²
+Philippines - 300,000 km²
+Ecuador - 276,841 km²
+Burkina Faso - 274,200 km²
+New Zealand - 270,467 km²
+Gabon - 267,667 km²
+Guinea - 245,857 km²
+United Kingdom - 242,495 km²
+Ghana - 238,533 km²
+Romania - 238,397 km²
+Laos - 236,800 km²
+Uganda - 241,038 km²
+Guyana - 214,969 km²
+Belarus - 207,600 km²
+Kyrgyzstan - 199,951 km²
+Senegal - 196,722 km²
+Syria - 185,180 km²
+Cambodia - 181,035 km²
+Uruguay - 176,215 km²
+Suriname - 163,820 km²
+Tunisia - 163,610 km²
+Nepal - 147,516 km²
+Bangladesh - 147,570 km²
+Tajikistan - 143,100 km²
+Greece - 131,957 km²
+Nicaragua - 130,373 km²
+North Korea - 120,540 km²
+Malawi - 118,484 km²
+Eritrea - 117,600 km²
+Benin - 114,763 km²
+Honduras - 112,492 km²
+Liberia - 111,369 km²
+Bulgaria - 110,993 km²
+Cuba - 109,884 km²
+Guatemala - 108,889 km²
+Iceland - 103,000 km²
+South Korea - 100,210 km²
+Hungary - 93,028 km²
+Portugal - 92,090 km²
+Jordan - 89,342 km²
+Serbia - 88,361 km²
+Azerbaijan - 86,600 km²
+Austria - 83,879 km²
+United Arab Emirates - 83,600 km²
+Czech Republic - 78,866 km²
+Panama - 75,417 km²
+Sierra Leone - 71,740 km²
+Ireland - 70,273 km²
+Georgia - 69,000 km²
+Sri Lanka - 65,610 km²
+Lithuania - 65,300 km²
+Latvia - 64,589 km²
+Togo - 56,785 km²
+Croatia - 56,594 km²
+Bosnia and Herzegovina - 51,209 km²
+Costa Rica - 51,100 km²
+Slovakia - 49,036 km²
+Dominican Republic - 48,671 km²
+Estonia - 45,228 km²
+Denmark - 42,916 km²
+Netherlands - 41,543 km²
+Switzerland - 41,290 km²
+Bhutan - 38,394 km²
+Taiwan - 36,193 km²
+Guinea-Bissau - 36,125 km²
+Moldova - 33,851 km²
+Belgium - 30,528 km²
+Lesotho - 30,355 km²
+Armenia - 29,743 km²
+Solomon Islands - 28,896 km²
+Albania - 28,748 km²
+Equatorial Guinea - 28,051 km²
+Burundi - 27,834 km²
+Haiti - 27,750 km²
+Rwanda - 26,338 km²
+Macedonia - 25,713 km²
+Djibouti - 23,200 km²
+Belize - 22,966 km²
+El Salvador - 21,041 km²
+Slovenia - 20,273 km²
+Israel - 20,770 km²
+Kuwait - 17,818 km²
+Fiji - 18,274 km²
+Swaziland (Eswatini) - 17,364 km²
+The Bahamas - 13,943 km²
+Montenegro - 13,812 km²
+Vanuatu - 12,189 km²
+Gambia - 11,295 km²
+Qatar - 11,586 km²
+Lebanon - 10,452 km²
+Cyprus - 9,251 km²
+Brunei - 5,765 km²
+Trinidad and Tobago - 5,130 km²
+Cape Verde - 4,033 km²
+Samoa - 2,842 km²
+Luxembourg - 2,586 km²
+Comoros - 1,861 km²
+Mauritius - 2,040 km²
+São Tomé and Príncipe - 964 km²
+Kiribati - 811 km²
+Bahrain - 765 km²
+Tonga - 747 km²
+Singapore - 728 km²
+Micronesia - 702 km²
+Saint Kitts and Nevis - 261 km²
+Palau - 459 km²
+Seychelles - 459 km²
+Antigua and Barbuda - 442 km²
+Barbados - 430 km²
+Saint Vincent and the Grenadines - 389 km²
+Andorra - 468 km²
+San Marino - 61 km²
+Tuvalu - 26 km²
+Nauru - 21 km²
+Monaco - 2.02 km²
+Vatican City - 0.44 km²
